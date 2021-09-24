@@ -1,2 +1,3 @@
-# Fintech_mamba1
-Challenge 1 repo
+# Fintech_mamba1 no longer in use
+# Challenge 1 repo - renamed as Challenge1Repo
+
